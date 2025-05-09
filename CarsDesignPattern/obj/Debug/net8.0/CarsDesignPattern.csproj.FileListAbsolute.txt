@@ -1,0 +1,14 @@
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\bin\Debug\net8.0\CarsDesignPattern.exe
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\bin\Debug\net8.0\CarsDesignPattern.deps.json
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\bin\Debug\net8.0\CarsDesignPattern.runtimeconfig.json
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\bin\Debug\net8.0\CarsDesignPattern.dll
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\bin\Debug\net8.0\CarsDesignPattern.pdb
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.AssemblyInfoInputs.cache
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.AssemblyInfo.cs
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.csproj.CoreCompileInputs.cache
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.dll
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\refint\CarsDesignPattern.dll
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.pdb
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\CarsDesignPattern.genruntimeconfig.cache
+D:\Code\C#\CarsDesignPattern\CarsDesignPattern\obj\Debug\net8.0\ref\CarsDesignPattern.dll
